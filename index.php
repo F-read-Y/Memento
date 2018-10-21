@@ -5,6 +5,10 @@
 	<title>Memento</title>
 </head>
 <body>
-	<h1>Это тестовая выгрузка приложения на beget.com</h1>
+	<header>
+		<ul>
+			<a href="./nouns_gen/index.php"><li>Генератор слов</li></a>
+		</ul>
+	</header>
 </body>
 </html>
